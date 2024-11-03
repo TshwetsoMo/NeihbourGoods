@@ -101,8 +101,6 @@ The idea behind NeighbourGoods is to create a platform that encourages community
 
 ### Wireframes
 
-<!-- Include images of your wireframes -->
-
 ## Development Process
 
 ### Implementation Process
@@ -129,9 +127,21 @@ User Ratings and Reviews: Implementing a system for users to rate and review eac
 
 ## Final Outcome
 
+![image1](./mockups/images/explore.jpg)
+![image2](./mockups/images/Dashboard%20-%20Browse%20Donations.jpg)
+![image3](./mockups/images/profile%20-%20recent%20activity.jpg)
+![image9](./mockups/images/Dashboard.jpg)
+![image10](./mockups/images/comments%20section.jpg)
+<br>
+
 ### Mockups
 
-<!-- Include images of your final product -->
+![image4](./mockups/NG_Landing_MacStudio_Mockup.png)
+![image5](./mockups/NG_login_MacStudio_Mockup.png)
+![image6](./mockups/NG_Dashboard_DellXPS_Mockup.png)
+![image7](./mockups/NG_Explore_ZenBookDuo14_Mockup.png)
+![image8](./mockups/NG_Profile_DellXPS_Mockup.png)
+<br>
 
 ### Video Demonstration
 
