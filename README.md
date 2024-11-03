@@ -62,7 +62,9 @@ XAMPP: You will need to install XAMPP to run Apache and MySQL on your local mach
 
 Download XAMPP
 
-### Basic Knowledge: Familiarity with PHP, MySQL, and web development is recommended.
+### Basic Knowledge:
+
+Familiarity with PHP, MySQL, and web development is recommended.
 
 ### Installation
 
