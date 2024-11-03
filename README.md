@@ -14,28 +14,28 @@
 
 ## Table of Contents
 
-About the Project
-Project Description
-Built With
-Getting Started
-Prerequisites
-Installation
-Features and Functionality
-Concept Process
-Ideation
-Wireframes
-Development Process
-Implementation Process
-Highlights
-Challenges
-Future Implementation
-Final Outcome
-Mockups
-Video Demonstration
-Conclusion
-License
-Contact
-Acknowledgements
+- [About the Project](#about-the-project)
+  - [Project Description](#project-description)
+  - [Built With](#built-with)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [How to install](#how-to-install)
+- [Features and Functionality](#features-and-functionality)
+- [Concept Process](#concept-process)
+  - [Ideation](#ideation)
+  - [Wireframes](#wireframes)
+- [Development Process](#development-process)
+  - [Implementation Process](#implementation-process)
+    - [Highlights](#highlights)
+    - [Challenges](#challenges)
+  - [Future Implementation](#peer-reviews)
+- [Final Outcome](#final-outcome)
+  - [Mockups](#mockups)
+  - [Video Demonstration](#video-demonstration)
+- [Conclusion](#conclusion)
+- [License](#license)
+- [Contact](#contact)
+- [Acknowledgements](#acknowledgements)
 
 <!-- ABOUT THE PROJECT -->
 
