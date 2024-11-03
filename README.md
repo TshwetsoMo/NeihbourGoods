@@ -74,7 +74,7 @@ GitHub Desktop
 
 Enter https://github.com/YourUsername/NeighbourGoods.git into the URL field and press the Clone button.
 
-Clone Repository
+### Clone Repository
 
 Run the following command in your terminal to clone the project:
 
@@ -110,10 +110,12 @@ The idea behind NeighbourGoods is to create a platform that encourages community
 Backend Development: Utilized PHP and MySQL for server-side scripting and database management.
 Frontend Development: Employed HTML, CSS, and Bootstrap 5 for responsive and accessible design.
 Security Measures: Implemented prepared statements and input validation to protect against SQL injection and XSS attacks.
-Highlights
+
+### Highlights
+
 Successfully integrated a user-friendly interface that allows seamless navigation.
 Implemented a robust request management system that enhances user interaction.
-Achieved a consistent and appealing design across all pages.
+Achieved a consistent and appealing design across all pages that is responsive on multiple devices with differing screen sizes.
 
 ### Challenges
 
