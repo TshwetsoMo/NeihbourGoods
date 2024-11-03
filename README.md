@@ -50,7 +50,7 @@ NeighbourGoods is a community-driven platform designed to reduce food waste and 
 
 ## Built With
 
-<img src="https://www.php.net/images/logos/new-php-logo.svg" width="6%" height="6%">         <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="6%" height="6%">         <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" width="6%" height="6%">         <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="6%" height="6%">
+<p align="center"><img src="https://www.php.net/images/logos/new-php-logo.svg" width="6%" height="6%">         <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="6%" height="6%">         <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" width="6%" height="6%">         <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="6%" height="6%">
 
 ## Getting Started
 
