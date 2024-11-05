@@ -22,17 +22,28 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
         // Check if user exists
         if ($stmt->num_rows > 0) {
-            $stmt->bind_result($id, $hashed_password);
+            $stmt->bind_result($user_id, $hashed_password);
             $stmt->fetch();
 
             // Verify password
             if (password_verify($password, $hashed_password)) {
                 // Successful login
-                $_SESSION['user_id'] = $id;
+                session_regenerate_id(true); // Prevent session fixation
+                $_SESSION['user_id'] = $user_id;
 
-                // Redirect to the unified dashboard
-                header('Location: dashboard.php');
-                exit();
+                // Assume user ID 1 is the admin
+                if ($user_id == 1) {
+                    $_SESSION['is_admin'] = true;
+                    // Redirect to admin dashboard
+                    header('Location: ./Admin/adminDashboard.php');
+                    exit();
+                } else {
+                    $_SESSION['is_admin'] = false;
+                    // Redirect to user dashboard
+                    header('Location: dashboard.php');
+                    exit();
+                }
+
             } else {
                 $error = 'Incorrect password.';
             }
@@ -179,3 +190,4 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
 </body>
 </html>
+
