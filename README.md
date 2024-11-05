@@ -153,6 +153,8 @@ User Ratings and Reviews: Implementing a system for users to rate and review eac
 
 ### View Demonstration
 
+https://drive.google.com/file/d/17MelKB6nTJw-EredPnaIsRLVaWT2-t1T/view?usp=drive_link
+
 ## Conclusion
 
 NeighbourGoods serves as a platform that not only helps reduce food waste but also strengthens community bonds. By enabling easy sharing and requesting of items, it fosters a sense of community and promotes sustainable living.
