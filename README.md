@@ -165,13 +165,13 @@ Distributed under the MIT License. See LICENSE for more information.
 
 ## Contact
 
-Tshwetso Mokgatlhe - Personal Email - GitHub
+**Tshwetso Mokgatlhe** - [Personal email](tshwetsomokgatlhe@gmail.com)[School Email](221411@virtualwindow.co.za) - [GitHub](https://github.com/TshwetsoMo)
 
-Project Link: https://github.com/TshwetsoMo/NeihbourGoods.git
-Acknowledgements
+- **Project Link** - https://github.com/TshwetsoMo/NeihbourGoods.git
+
+## Acknowledgements
+
 ChatGPT
 Bootstrap
 SweetAlert2
 Google Fonts
-
-<!-- Images -->
