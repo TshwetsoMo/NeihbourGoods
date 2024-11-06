@@ -44,11 +44,11 @@
 <a href="https://github.com/TshwetsoMo/NeihbourGoods.git"> 
 <img src="img/logo.png" width="200px"> </a>
 
-**Admin Username** - admin@example.com
-**Admin Password** - Admin123
+**Admin Username** - admin@example.com </br>
+**Admin Password** - Admin123 </br></br>
 
-**Normal Username** - tshwetsomokgatlhe@example.com
-**UserPassword** - 12345
+**Normal Username** - tshwetsomokgatlhe@example.com</br>
+**UserPassword** - 12345 </br>
 
 ### Project Description
 
