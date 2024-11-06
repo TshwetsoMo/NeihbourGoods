@@ -167,7 +167,8 @@ Distributed under the MIT License. See LICENSE for more information.
 
 **Tshwetso Mokgatlhe** - [Personal email](tshwetsomokgatlhe@gmail.com)[School Email](221411@virtualwindow.co.za) - [GitHub](https://github.com/TshwetsoMo)
 
-- **Project Link** - https://github.com/TshwetsoMo/NeihbourGoods.git
+- **Project Link** - https://github.com/TshwetsoMo/NeihbourGoods.github
+  **Uploaded Website** - https://tkmneighbourgoods.co.za/index.php
 
 ## Acknowledgements
 
