@@ -44,6 +44,12 @@
 <a href="https://github.com/TshwetsoMo/NeihbourGoods.git"> 
 <img src="img/logo.png" width="200px"> </a>
 
+**Admin Username** - admin@example.com
+**Admin Password** - Admin123
+
+**Normal Username** - tshwetsomokgatlhe@example.com
+**UserPassword** - 12345
+
 ### Project Description
 
 NeighbourGoods is a community-driven platform designed to reduce food waste and foster stronger neighborhood connections by enabling users to share surplus food and goods with others in their community. The website serves as a hub where individuals can donate excess items, request needed goods, and engage with their neighbors to build a more sustainable and connected community.
